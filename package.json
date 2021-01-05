@@ -31,7 +31,7 @@
   "dependencies": {
     "@binance-chain/javascript-sdk": "^2.14.4",
     "arg": "^4.1.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "csv-parse": "^4.4.3",
     "inquirer": "^6.5.0",
     "rxjs": "^6.5.2",
